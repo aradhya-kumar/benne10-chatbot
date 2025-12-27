@@ -69,7 +69,7 @@ src/
 ## 👤 Author
 
 Aradhya Kumar Rao
-Linkedin: https://www.linkedin.com/in/aradhya-kumar
+Linkedin: https://www.linkedin.com/in/aradhya-kumar \n
 GitHub: https://github.com/aradhya-kumar
 
 
