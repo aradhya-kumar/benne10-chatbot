@@ -60,7 +60,7 @@ src/
 
 ## ▶️ How to Run
 1. Clone the repository
-   git clone https://github.com/your-username/benne10-chatbot.git
+   git clone https://github.com/aradhya-kumar/benne10-chatbot.git
 2. Open the project in any Java IDE (IntelliJ / Eclipse / VS Code)
 3. Run **Main.java**
 
