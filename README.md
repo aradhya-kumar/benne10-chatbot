@@ -37,10 +37,12 @@ to add new data or improve matching logic.
 ---
 
 ## 📁 Project Structure
+'''text
 src/
 ├── Main.java              # Application entry point
 ├── Chatbot.java           # Core chatbot logic
 ├── FAQData.java           # Stores questions & answers
 ├── SimilarityUtils.java   # Text similarity functions
 └── HintTextField.java     # Custom UI input field
+'''
 
