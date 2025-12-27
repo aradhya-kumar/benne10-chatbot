@@ -46,5 +46,22 @@ src/
 ├── SimilarityUtils.java   # Text similarity functions
 └── HintTextField.java     # Custom UI input field
 ```
+---
+
+## ⚙️ How It Works
+
+1. User enters a question in the chat interface
+2. Input text is processed and cleaned
+3. Similarity algorithms compare input with stored FAQ questions
+4. The closest matching question is selected
+5. The corresponding answer is displayed to the user
+
+---
+
+## ▶️ How to Run
+1. Clone the repository
+   git clone https://github.com/your-username/benne10-chatbot.git
+2. Open the project in any Java IDE (IntelliJ / Eclipse / VS Code)
+3. Run **Main.java**
 
 
