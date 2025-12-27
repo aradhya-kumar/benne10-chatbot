@@ -64,4 +64,12 @@ src/
 2. Open the project in any Java IDE (IntelliJ / Eclipse / VS Code)
 3. Run **Main.java**
 
+---
+
+## 👤 Author
+
+Aradhya Kumar Rao
+Linkedin: https://www.linkedin.com/in/aradhya-kumar
+GitHub: https://github.com/aradhya-kumar
+
 
